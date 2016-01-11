@@ -1,0 +1,2 @@
+# LetvEmoticonLib
+android,textview,edittextview
